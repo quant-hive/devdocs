@@ -18,18 +18,12 @@ This document outlines standard guidelines to follow. This document is subject t
 2) If you’re working on a component / class, the file name and component shall be in PascalCase
 3) Avoid special characters in the names as much as possible
 4) Keep the names semantic and easy to remember / correlate to
+5) While versioning your releases, keep this specification in mind: [https://semver.org/](https://semver.org/)
 
 
 ## Important links for GitHub
 
+- GitHub tutorial for beginners: [https://www.theserverside.com/video/Full-Git-and-GitHub-tutorial-for-beginners](https://www.theserverside.com/video/Full-Git-and-GitHub-tutorial-for-beginners)
 - Best practice while using GitHub (quick points): [https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
-- GitHub tutorial: [https://www.theserverside.com/video/Full-Git-and-GitHub-tutorial-for-beginners](https://www.theserverside.com/video/Full-Git-and-GitHub-tutorial-for-beginners)
 - Best practices for commits: [https://amigrant.vyogami.co/contribution-guidelines#branching-structure](https://amigrant.vyogami.co/contribution-guidelines#branching-structure)
 - Documentation best practice on GitHub (and in general): [https://docs.github.com/en/contributing/writing-for-github-docs/best-practices-for-github-docs](https://docs.github.com/en/contributing/writing-for-github-docs/best-practices-for-github-docs)
-
-
-## Important links for API documentation
-
-- Swagger v3.1 specification: [https://swagger.io/specification/](https://swagger.io/specification/)
-- Guide on API documentation: [https://swagger.io/blog/api-documentation-guide/](https://swagger.io/blog/api-documentation-guide/)
-
